@@ -13,7 +13,7 @@ Die [accurat] FLUX 850 USV ist eine preisgünstiges Gerät zur unterbrechungsfre
 
 ![Mittel (FLUX860)](https://github.com/user-attachments/assets/e759710c-8a02-4935-a9b5-5228db25ede6)
 
-Leider gibt es vom Hersteller nur eine Windows-Software dafür. Das USV-Management-System NUT erkennt jedoch die Elektronik und stellt auch den richtigen Treiber zur Verfügung. Allerdings ist die Einrichtung ziemlich komplex und für normale Menschen ohne Expertenwissen kaum durchführbar. Dank der **DeutschlandGPT** gibt es hier die Lösung. 
+Leider gibt es vom Hersteller nur eine Windows-Software dafür. Das LINUX USV-Management-System NUT erkennt jedoch die Elektronik und stellt auch den richtigen Treiber zur Verfügung. Allerdings ist die Einrichtung ziemlich komplex und für normale Menschen ohne Expertenwissen kaum durchführbar. Dank der **DeutschlandGPT** gibt es hier die Lösung. 
 
 Der ****FLUX•Freund**** ist ein Shellscript für Linux zur schnellen Installation des NUT-Servers zur Nutzung mit dem FLUX. Es ist nur nötig ein Passwort einzugeben. Alles andere macht das Script. Wer keinen Linux-Rechner hat sollte überlegen einen Raspberry PI anzuschaffen. NUT sollte selbst auf einem kleinen Pi Zero 2 laufen. So kann man für eine geringe Investition die USV im Netzwerk monitoren.
 
