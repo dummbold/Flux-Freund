@@ -18,7 +18,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Password input
-echo "Passwort für NUT-Zugriff festlegen:"
+echo "Neues Passwort für NUT-Zugriff festlegen:"
 read -s -p "Set Password: " NUT_PASSWORD
 echo ""
 read -s -p "Passwort bestätigen: " NUT_PASSWORD_CONFIRM
